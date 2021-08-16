@@ -2,10 +2,11 @@
 
 ## Description
 This is a landing page for Horiseon SEO. I upgraded it to get all of the links functioning, meet accessibility standards, and clean up the HTML
-and CSS with semantic elements and code consolidation. I also added flex-boxes and media queries to add responsiveness and make it more mobile-friendly.
+and CSS with semantic elements and code consolidation. 
 
 ## Screenshot
-<img width="1280" alt="Screen Shot 2021-08-15 at 2 38 50 PM" src="https://user-images.githubusercontent.com/86803279/129490527-56b77213-dde1-4408-8d2c-9f835e7d89bc.png">
+<img width="1279" alt="Screen Shot 2021-08-15 at 11 03 49 PM" src="https://user-images.githubusercontent.com/86803279/129510047-66f29e49-3a55-4adb-bb6b-f65dbe558b7e.png">
+
 
 ## Technology used
 HTML and CSS
